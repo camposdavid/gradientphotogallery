@@ -1,0 +1,67 @@
+.main-header {
+  -webkit-animation-duration: 5s;
+  -webkit-animation-delay: .1s;
+  /*-webkit-animation-iteration-count: infinite;*/
+
+  -moz-animation-duration: 5s;
+  -moz-animation-delay: .1s;
+  /*-moz-animation-iteration-count: infinite;*/
+
+  -o-animation-duration: 5s;
+  -o-animation-delay: .1s;
+  /*-o-animation-iteration-count: infinite;*/
+}
+
+.main-roller {
+  -webkit-animation-duration: 5s;
+  -webkit-animation-delay: .1s;
+  /*-webkit-animation-iteration-count: infinite;*/
+
+  -moz-animation-duration: 5s;
+  -moz-animation-delay: .1s;
+  /*-moz-animation-iteration-count: infinite;*/
+
+  -o-animation-duration: 5s;
+  -o-animation-delay: .1s;
+  /*-o-animation-iteration-count: infinite;*/
+}
+
+
+main {
+            padding-top: 3rem;
+            padding-bottom: 2rem;
+            background-image: url("https://source.unsplash.com/0LU4vO5iFpM");         
+        }
+        
+        .extra-margins {
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+        }
+        
+        .jumbotron {
+            text-align: center;
+            padding: 0;
+           
+
+        }
+
+    h1#main-name.h1-responsive {
+       border-radius: 15px;
+    }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rufina', serif;
+}
+
+p, li {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#main-name {
+  font-size: 90px;
+  background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
+}
+
+.navbar {
+  background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
+}
